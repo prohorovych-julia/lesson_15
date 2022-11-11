@@ -56,7 +56,7 @@ body {
     color: #424551;
     font-weight: 700;
 }
-.menu__list>li:hover {
+.menu__item:hover {
     text-decoration: underline;
 }
 
