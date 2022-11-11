@@ -56,19 +56,13 @@ body {
     color: #424551;
     font-weight: 700;
 }
-.menu__list:hover {
+.menu__list>li:hover {
     text-decoration: underline;
 }
-.menu__item {
-}
-.menu__link {
-}
+
 .header__actions { 
     display: flex;
     align-items: center;
-}
-.actions-header {
-  
 }
 .actions-header__button {
     margin-right: 36px;
